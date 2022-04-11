@@ -1,7 +1,8 @@
 [Variables]
 cu = 300.0
-current_extruder = 0
+current_extruder = 1
 currentextruder = 1
-infill_sqv = 15
+infill_sqv = 5
+led_on = 1
 parked_extruder = 'extruder1'
 
