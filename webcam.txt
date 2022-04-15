@@ -55,7 +55,7 @@ camera_usb_options="-r 1640x922 -f 15"
 #
 # Defaults to 10fps
 #
-camera_raspi_options="-fps 15"
+camera_raspi_options="-fps 25 -quality 100 -ISO 550 -sh 100 -br 50 -sa -15 -awb tungsten"
 
 ### Configuration of camera HTTP output
 #
@@ -76,4 +76,4 @@ camera_raspi_options="-fps 15"
 #
 # Available options:
 #   mjpeg [default] - stable MJPG-streamer
-camera_streamer=ustreamer
+#camera_streamer=ustreamer
