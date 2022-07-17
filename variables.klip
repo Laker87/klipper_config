@@ -2,5 +2,5 @@
 cu = 300.0
 current_extruder = 1
 infill_sqv = 15
-led_on = 1
+led_on = 0
 
