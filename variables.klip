@@ -1,6 +1,7 @@
 [Variables]
 cu = 300.0
 current_extruder = 1
+current_layer = 49
 infill_sqv = 15
 led_on = 0
 
