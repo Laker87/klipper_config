@@ -1,9 +1,9 @@
 [Variables]
 cu = 300.0
 current_extruder = 1
-current_layer = 10
+current_layer = 25
 infill_sqv = 15
 led_on = 0
 power_loss_extra_z = 0
-power_loss_save = {'file_path': 'RRR.gcode', 'file_position': 832386, 'speed_factor': 110, 'speed': 8382, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 25.092, 'gcode_position_y': 147.807, 'gcode_position_z': 1.223, 'gcode_position_e': 344.27430000000186, 'kin_position_x': 25.092, 'kin_position_y': 147.807, 'kin_position_z': 1.2730000000000001, 'kin_position_e': 4595.046430000041, 'fan_speed': 0, 'z_offset': 0.05, 'extruder_temp': 275, 'bed_temp': 90, 'pressure_advance': 0.023, 'smooth_time': 0.02, 'velocity': 400, 'accel': 8000, 'accel_to_decel': 4000, 'sqv': 20}
+power_loss_save = {'file_path': 'Corporate_A_L5.gcode', 'file_position': 19656803, 'speed_factor': 100, 'speed': 1800, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 333.015, 'gcode_position_y': 200.498, 'gcode_position_z': 5.0, 'gcode_position_e': 13.981529999986378, 'kin_position_x': 333.015, 'kin_position_y': 200.498, 'kin_position_z': 5.2, 'kin_position_e': 20607.339480000348, 'fan_speed': 63, 'z_offset': 0.2, 'extruder_temp': 270, 'bed_temp': 90, 'pressure_advance': 0.023, 'smooth_time': 0.02, 'velocity': 400, 'accel': 8000, 'accel_to_decel': 4000, 'sqv': 10}
 
