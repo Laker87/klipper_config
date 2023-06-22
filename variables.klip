@@ -1,9 +1,9 @@
 [Variables]
 cu = 300.0
 current_extruder = 1
-current_layer = 4
+current_layer = 13
 infill_sqv = 15
 led_on = 0
 power_loss_extra_z = 0
-power_loss_save = {'file_path': 'Корпус датчиков дыхания.gcode', 'file_position': 452634, 'speed_factor': 100, 'speed': 15000, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 232.091, 'gcode_position_y': 198.391, 'gcode_position_z': 0.8, 'gcode_position_e': 94.3124600000001, 'kin_position_x': 232.091, 'kin_position_y': 198.391, 'kin_position_z': 0.775, 'kin_position_e': 763.4420100000067, 'fan_speed': 96, 'z_offset': -0.025, 'extruder_temp': 235, 'bed_temp': 75, 'pressure_advance': 0.085, 'smooth_time': 0.01, 'velocity': 400, 'accel': 8000, 'accel_to_decel': 4000, 'sqv': 10}
+power_loss_save = {'file_path': 'Корпус датчиков дыхания.gcode', 'file_position': 1595771, 'speed_factor': 100, 'speed': 10500, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 197.978, 'gcode_position_y': 176.034, 'gcode_position_z': 2.6, 'gcode_position_e': 60.194459999987885, 'kin_position_x': 197.978, 'kin_position_y': 176.034, 'kin_position_z': 2.575, 'kin_position_e': 2103.913240000082, 'fan_speed': 119, 'z_offset': -0.025, 'extruder_temp': 235, 'bed_temp': 75, 'pressure_advance': 0.085, 'smooth_time': 0.01, 'velocity': 400, 'accel': 8000, 'accel_to_decel': 4000, 'sqv': 10}
 
