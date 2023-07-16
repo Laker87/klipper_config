@@ -1,9 +1,4 @@
 [Variables]
-cu = 300.0
-current_extruder = 1
-current_layer = 147
-infill_sqv = 15
-led_on = 0
 power_loss_extra_z = 0
-power_loss_save = {'file_path': 'Kolba.gcode', 'file_position': 12562449, 'speed_factor': 100, 'speed': 1800, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 267.112, 'gcode_position_y': 174.518, 'gcode_position_z': 29.4, 'gcode_position_e': 3.5895500000024185, 'kin_position_x': 267.112, 'kin_position_y': 174.518, 'kin_position_z': 29.439999999999998, 'kin_position_e': 11572.285630001892, 'fan_speed': 130, 'z_offset': 0.04, 'extruder_temp': 220, 'bed_temp': 55, 'pressure_advance': 0.04, 'smooth_time': 0.01, 'velocity': 400, 'accel': 8000, 'accel_to_decel': 4000, 'sqv': 10}
+power_loss_save = 0
 
