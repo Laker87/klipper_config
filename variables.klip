@@ -1,4 +1,4 @@
 [Variables]
 power_loss_extra_z = 0
-power_loss_save = 0
+power_loss_save = {'file_path': 'левая.gcode', 'file_position': 279791, 'speed_factor': 100, 'speed': 6000, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': 150.911, 'gcode_position_y': 203.438, 'gcode_position_z': 0.2, 'gcode_position_e': 446.2806199999993, 'kin_position_x': 150.911, 'kin_position_y': 203.438, 'kin_position_z': 0.1, 'kin_position_e': 566.2806199999993, 'fan_speed': 0, 'z_offset': -0.1, 'extruder_temp': 235, 'bed_temp': 75, 'pressure_advance': 0.05, 'smooth_time': 0.01, 'velocity': 400, 'accel': 1500, 'accel_to_decel': 750, 'sqv': 10}
 
