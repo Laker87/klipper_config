@@ -1,4 +1,4 @@
 [Variables]
 power_loss_extra_z = 0
-power_loss_save = 0
+power_loss_save = {'file_path': '', 'file_position': 0, 'speed_factor': 100, 'speed': 10000, 'extrude_factor': 100, 'absolute_coordinates': True, 'absolute_extrude': False, 'gcode_position_x': -33.00466015625, 'gcode_position_y': 13.0, 'gcode_position_z': 10.0, 'gcode_position_e': -3.0, 'kin_position_x': -33.00466015625, 'kin_position_y': 13.0, 'kin_position_z': 10.0, 'kin_position_e': 37.0, 'fan_speed': 0, 'z_offset': 0.0, 'extruder_temp': 0, 'bed_temp': 0, 'pressure_advance': 0.0, 'smooth_time': 0.01, 'velocity': 600, 'accel': 10000, 'accel_to_decel': 5000, 'sqv': 10}
 
